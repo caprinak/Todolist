@@ -1,0 +1,18 @@
+makes front-end JavaScript much easier
+Use self contained, independent components with their own state
+Much more interactive UIs
+Virtual DOM - only update what is needed
+JSX - Easily incorporate JS in markup
+Easy to work with teams
+
+
+Priority
+Destructuring
+HOF
+Fetch API & Promises
+
+State : determine how a component redners and behaves
+Application level -State manager Redux or context API - Redux
+
+react dom : loading components 
+react-scripts : dev server complile, run TypeScript
